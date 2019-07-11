@@ -1,4 +1,4 @@
-# javascript-notes
+# Javascript Notes
 a list about javascript problem and its solution
 
 **Reference:**
