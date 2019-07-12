@@ -2,9 +2,10 @@
 
 A list about `Javascript` problem and its solution
 
-## Problem (1) - await inside forEach 
+## Problem (1) - `await` inside `forEach` 
 
-You cant use `await` inside `forEach`.
+Sometime, you have a collection of Array that need to be looped, maybe just to print it out or make further code.
+In this case, You cant use `await` inside `forEach`.
 because it will give you error :
 
 >**SyntaxError: await is only valid in async function**
